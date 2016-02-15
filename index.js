@@ -34,7 +34,7 @@ class ReactHelper {
     };
 
     component.prototype.render = function mockRender() {
-      return (<div/>);
+      return React.createElement('div');
     };
   }
 }
