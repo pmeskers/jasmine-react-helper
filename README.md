@@ -42,3 +42,5 @@ This function should be called after any tests have been run in order to clean u
 ### todo
 
 * this should place nicely with React's test utils
+  * props should still be passed into mocked components
+* moved away from ES2015, JSX when making this a shared library. Would love to figure out how to have best of both worlds.
