@@ -1,6 +1,6 @@
 {
   "name": "jasmine-react-helper",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A tool for making React components easier to test in Jasmine.",
   "main": "index.js",
   "scripts": {
